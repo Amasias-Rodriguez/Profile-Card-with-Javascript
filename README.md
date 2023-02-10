@@ -1,2 +1,2 @@
 # Profile-Card-with-Javascript
-Profile Card with CSS and Javascript
+Profile Card with animation CSS and Javascript
