@@ -18,7 +18,7 @@ body{
 
 .card{
     position: relative;
-    transition: 0.5s;
+    transition: 0.2s;
     height: 100px;
     /* background: #fff; */
     transition-delay: 0.5s;
